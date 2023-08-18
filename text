@@ -1,0 +1,9 @@
+simple chat interface to be made {}
+sdk shall be used on frontend
+sdk shall be a wrapper to ai apis, eg open-ai
+sdk shall send logs (prompt and response) to backend
+backend shall log the logs sent from the sdk
+optional: send logs to skylift api
+
+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
+
